@@ -1,0 +1,32 @@
+{
+  "name": "vj-apphub",
+  "version": "1.0.0",
+  "description": "App Hub for the Micro Apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdonthireddy/vj-apphub.git"
+  },
+  "keywords": [
+    "AppHub",
+    "apphub",
+    "microapps"
+  ],
+  "author": "Vijay Donthireddy - vdonthireddy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdonthireddy/vj-apphub/issues"
+  },
+  "homepage": "https://github.com/vdonthireddy/vj-apphub#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "typescript": "^3.9.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6"
+  }
+}
