@@ -6,8 +6,8 @@ app.get('/', (req, res) => {
     res.end('Hello world!!! ');
 });
 
-app.listen(8080, ()=> {
-    console.log('sever started...');
+app.listen(3000, ()=> {
+    console.log('sever started at: http://localhost:3000/');
 });
 
 console.log('Hello World!');
