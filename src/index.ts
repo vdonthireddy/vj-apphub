@@ -9,5 +9,3 @@ app.get('/', (req, res) => {
 app.listen(3000, ()=> {
     console.log('sever started at: http://localhost:3000/');
 });
-
-console.log('Hello World!');
