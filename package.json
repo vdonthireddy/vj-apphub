@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/vdonthireddy/vj-apphub#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "typescript": "^3.9.2"
   },
   "devDependencies": {
